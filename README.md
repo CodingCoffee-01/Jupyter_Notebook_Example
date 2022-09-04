@@ -36,3 +36,10 @@ New Features: Misc Calc, the misc calc is going to be a assortment of different 
 ##  launch jupyter notebook 
 
 jupyter notebook --NotebookApp.allow_origin=\'$(gp url 8888)\'
+
+### if no python 3 kernel 
+
+python3 -m pip install ipykernel
+
+python3 -m ipykernel install --user
+
