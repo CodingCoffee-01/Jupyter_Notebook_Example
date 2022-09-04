@@ -21,9 +21,16 @@ python3 -m ipykernel install --user
 
 
 ##  open hello jupyter notebook in Google Colab 
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CodingCoffee-01/Jupyter_Notebook_Example/blob/master/hello.ipynb)
+
 https://colab.research.google.com/github/CodingCoffee-01/Jupyter_Notebook_Example/blob/master/hello.ipynb
 
+### if want to use this notebook in your home page , please use the following embedded html code   
 
+<a href="https://colab.research.google.com/github/CodingCoffee-01/Jupyter_Notebook_Example/blob/master/hello.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 ###  other important reference : 
 ref from : 
