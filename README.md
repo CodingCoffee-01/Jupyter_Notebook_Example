@@ -21,7 +21,7 @@ python3 -m ipykernel install --user
 
 
 ##  open hello jupyter notebook in Google Colab 
-https://colab.research.google.com/github/CodingCoffee-01/python-turtle-gitpod-example/blob/master/hello.ipynb
+https://colab.research.google.com/github/CodingCoffee-01/Jupyter_Notebook_Example/blob/master/hello.ipynb
 
 
 
