@@ -1,9 +1,31 @@
 # CodingCoffee Python Turtle Gitpod example
-
 # more courses: www.codingcoffee.org
 
+##  turtle demo 
+
+python turtle1.py 
+####  will show at port6080 webpage , can use gitpod preview or open new browser tab
 
 
+##  hello jupyter notebook 
+
+### launch jupyter notebook 
+
+jupyter notebook --NotebookApp.allow_origin=\'$(gp url 8888)\'
+
+### if no python 3 kernel 
+
+python3 -m pip install ipykernel
+
+python3 -m ipykernel install --user
+
+
+##  open hello jupyter notebook in Google Colab 
+https://colab.research.google.com/github/CodingCoffee-01/python-turtle-gitpod-example/blob/master/hello.ipynb
+
+
+
+###  other important reference : 
 ref from : 
 Installation 
 
@@ -33,13 +55,6 @@ factor equation calc, zpp calculator, greatest common factor calculator, Line of
 New Features: Misc Calc, the misc calc is going to be a assortment of different random calculators so far we have the gpa calc you can expect to see this calculator updated soon maybe possibly :)
 
 
-##  launch jupyter notebook 
 
-jupyter notebook --NotebookApp.allow_origin=\'$(gp url 8888)\'
 
-### if no python 3 kernel 
-
-python3 -m pip install ipykernel
-
-python3 -m ipykernel install --user
 
